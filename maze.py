@@ -1,4 +1,5 @@
 #создай игру "Лабиринт"!
+#help
 from pygame import *
 font.init()
 font1 = font.SysFont('Arial', 70)
